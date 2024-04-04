@@ -1,0 +1,18 @@
+{
+        "name": "leo/quizz-dwwm",
+        "autoload": {
+            "psr-4": {
+                "app\\quizz\\": "src/"
+            }
+        },
+        "authors": [
+            {
+                "name": "Leo LAFORME",
+                "email": "jaaj@aa.net"
+
+            }
+        ],
+        "require-dev": {
+                "phpunit/phpunit": "^11.0"
+        }
+}
